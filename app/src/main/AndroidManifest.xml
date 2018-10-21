@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yayanheryanto.hallobayawak">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activity.SplashScreenActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.MainActivity" />
+        <activity android:name=".activity.LoginActivity" />
+        <activity android:name=".activity.RegisterActivity" />
+        <activity android:name=".activity.ArticleDetailActivity" />
+        <activity android:name=".activity.AskDoctorActivity" />
+        <activity android:name=".activity.AskScheduleActivity" />
+        <activity android:name=".activity.ProfileDoctorActivity" />
+        <activity android:name=".activity.EditProfileActivity" />
+        <activity android:name=".activity.DoctorActivity" />
+        <activity android:name=".activity.ArticleDoctorActivity" />
+        <activity android:name=".activity.CreateArticleActivity" />
+        <activity android:name=".activity.FriendsActivity" />
+        <activity android:name=".activity.EnsiklopediaActivity" />
+        <activity android:name=".activity.JobActivity" />
+        <activity android:name=".activity.AnswerActivity" />
+        <activity android:name=".activity.ProfileUserActivity" />
+        <activity android:name=".activity.ScheduleActivity" />
+        <activity android:name=".activity.DetailEnsiklopediaActivity" />
+        <activity android:name=".activity.DetailJobActivity" />
+        <activity android:name=".activity.CreateEnsiklopediaActivity" />
+        <activity android:name=".activity.DoctorKategoriActivity" />
+        <activity android:name=".activity.CommentarActivity" />
+        <activity android:name=".activity.Commentar2Activity"></activity>
+    </application>
+
+</manifest>

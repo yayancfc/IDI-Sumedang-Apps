@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="strings_short">
+        <item>Proin Eleifend Libero</item>
+        <item>Placerat nec elit</item>
+        <item>Fringilla ornare finibus</item>
+        <item>Convallis nec mollis</item>
+        <item>Vestibulum turpis nec</item>
+        <item>Sed malesuada volutpat</item>
+        <item>Leo ut semper vulputate</item>
+        <item>Maecenas a lorem in</item>
+        <item>Tincidunt est eros</item>
+        <item>Amet est sollicitudin</item>
+    </string-array>
+
+
+    <integer-array name="sample_images">
+        <item>@drawable/image_1</item>
+        <item>@drawable/image_2</item>
+        <item>@drawable/image_3</item>
+        <item>@drawable/image_4</item>
+        <item>@drawable/image_5</item>
+
+        <item>@drawable/image_6</item>
+        <item>@drawable/image_7</item>
+        <item>@drawable/image_8</item>
+        <item>@drawable/image_9</item>
+        <item>@drawable/image_10</item>
+
+        <item>@drawable/image_11</item>
+        <item>@drawable/image_12</item>
+        <item>@drawable/image_13</item>
+        <item>@drawable/image_14</item>
+        <item>@drawable/image_15</item>
+    </integer-array>
+
+
+    <string-array name="month">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+
+    <integer-array name="people_images">
+        <item>@drawable/dokterimage1</item>
+        <item>@drawable/dokterimage2</item>
+        <item>@drawable/dokterimage3</item>
+        <item>@drawable/dokterimage4</item>
+        <item>@drawable/dokterimage5</item>
+    </integer-array>
+
+
+    <string-array name="people_names">
+        <item>Dr. Adhika Syaputra</item>
+        <item>Dr. Agra Cesarienne Pradito</item>
+        <item>Dr. Ainul Yaqin</item>
+        <item>Dr. Alida Rosma Lina</item>
+        <item>Dr. Amiruddin Hamigu, MM</item>
+
+    </string-array>
+
+    <integer-array name="kategori_image">
+        <item>@drawable/anemia</item>
+        <item>@drawable/asma</item>
+        <item>@drawable/dbd</item>
+        <item>@drawable/diabetes</item>
+        <item>@drawable/gigi</item>
+        <item>@drawable/ginjal</item>
+        <item>@drawable/jantung</item>
+        <item>@drawable/kanker</item>
+        <item>@drawable/mata</item>
+        <item>@drawable/osteoporosis</item>
+    </integer-array>
+
+
+    <string-array name="kategori_name">
+        <item>Anemia</item>
+        <item>Asma</item>
+        <item>Demam Berdarah</item>
+        <item>Diabetes</item>
+        <item>Gigi</item>
+        <item>Ginjal</item>
+        <item>Jantung</item>
+        <item>Kanker</item>
+        <item>Mata</item>
+        <item>Osteoporosis</item>
+
+    </string-array>
+
+</resources>

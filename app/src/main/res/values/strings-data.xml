@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin
+        \n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin
+    </string>
+
+    <string name="short_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+
+    <string name="middle_lorem_ipsum">Tampaknya hari ini meminum kopi sudah menjadi bagian dari lifestyle, terutama bagi para pekerja. Para pekerja sudah terbiasa menikmati secangkir kopi hangat sebelum memulai pekerjaan, terutama di waktu lembur yang membutuhkan tenaga agar tetap terjaga. Banyak yang mengatakan bahwa kopi dapat membantu seseorang saat bekerja. Bahkan di kantor pun pasti tersedia stok kopi beserta ruangan untuk menyeduh kopi.</string>
+    <string name="medium_lorem_ipsum">Quisque imperdiet nunc at massa dictum volutpat. Etiam id orci ipsum. Integer id ex dignissim</string>
+
+    <string name="long_lorem_ipsum">
+        Duis tellus metus, elementum a lectus id, aliquet interdum mauris. Nam bibendum efficitur sollicitudin. Proin eleifend libero velit, nec fringilla dolor finibus quis. nMorbi eu libero pellentesque, rutrum metus quis, blandit est. Fusce bibendum accumsan nisi vulputate feugiat. In fermentum laoreet euismod. Praesent sem nisl, facilisis eget odio at, rhoncus scelerisque ipsum. Nulla orci dui, dignissim a risus ut, lobortis porttitor velit.
+        \n\nNulla id lectus metus. Maecenas a lorem in odio auctor facilisis non vitae nunc. Sed malesuada volutpat massa. Praesent sit amet lacinia augue, mollis tempor dolor.
+    </string>
+
+    <string name="very_long_lorem_ipsum">
+        Jakarta – Tampaknya hari ini meminum kopi sudah menjadi bagian dari lifestyle, terutama bagi para pekerja. Para pekerja sudah terbiasa menikmati secangkir kopi hangat sebelum memulai pekerjaan, terutama di waktu lembur yang membutuhkan tenaga agar tetap terjaga. Banyak yang mengatakan bahwa kopi dapat membantu seseorang saat bekerja. Bahkan di kantor pun pasti tersedia stok kopi beserta ruangan untuk menyeduh kopi. Tidak heran para pekerja menggandrungi kopi, karena ternyata kopi memiliki manfaat bagi para pekerja. Inilah manfaatnya:
+\n1. Meningkatkan Konsentrasi
+
+\nKonsentrasi penuh sangat dibutuhkan saat menyelesaikan pekerjaan di kantor. Kejenuhan dan banyak faktor lain di luar kantor kadang membuat konsentrasi kamu menurun. Untuk meningkatkan konsentrasi, kamu membutuhkan secangkir kopi.
+
+Pekerjaan yang melibatkan pikiran seperti creative planner, pengarang, dan pelajar tentunya membutuhkan secangkir kopi untuk menuntaskan tugas. Ketika konsentrasi mulai menurun, sementara pekerjaanmu masih banyak, ada baiknya kamu mengambil secangkir kopi favorit. Konsentrasimu pun dijamin akan kembali.
+\n2. Menahan Kantuk
+
+\nAgar tetap terjaga saat deadline, tentunya kamu membutuhkan stamina. Salah satu cara menambah dan mempertahankan stamina bagi para pekerja yaitu dengan mengonsumsi kopi. Kafein yang terkandung dalam kopi dapat membantu kamu tetap terjaga tanpa rasa kantung.
+
+Bagi sebagian orang yang belum terbiasa mengonsumsi kopi, tentu akan merasakan kondisi tubuh yang sangat lemah setelah kafein masuk dalam tubuh. Maka sebaiknya, kamu perlu mencari kopi alami yang lebih aman untuk kesehatan.
+\n3. Menjaga Stamina
+
+\nBekerja dengan kondisi yang lemas tentu tidak nyaman dialami, karena akan sangat terlihat dari penampilan. Kamu dapat mengatasinya dengan menikmati secangkir kopi dengan rasa dan aroma terbaik. Kandungan kafein dalam kopi dapat meningkatkan jumlah adrenalis dalam darah. Oleh karena itu, dengan mengonsumsi kopi, kamu akan terlihat lebih bersemangat dengan stamina yang tetap terjaga.
+4. Mengurangi Rasa Sakit
+
+Bagi mereka yang bekerja di lapangan dengan mengandalkan kekuatan fisik, biasanya akan terasa sedikit sakit atau pegal-pegal setelah selesai bekerja. Untuk mengurangi rasa sakit, kamu dapat mengonsumsi kopi. Dua gelas kopi ternyata mampu menghilangkan rasa sakit pada otot tubuh sebanyak 40 persen. Maka tidak heran jika para pekerja lapangan membutuhkan jumlah kopi yang lebih banyak dibandingkan mereka yang hanya duduk saat bekerja.
+\n5. Mengurangi Risiko Encok
+
+\nRasa encok pada tubuh biasanya terjadi ketika duduk terlalu lama saat bekerja atau bekerja dengan  mengandalkan fisik di lapangan. Untuk mengurangi risiko encok, dianjurkan untuk mengonsumsi kopi. Sebuah penelitian terhadap 50 ribu orang pria di dunia yang mengalami encok. Bagi mereka yang mengonsumsi kopi, angka pengurangan risiko encok lebih besar daripada yang tidak mengonsumsi kopi.
+
+Banyak juga ya manfaat kopi untuk para pekerja. Jadi, jika hari ini kamu akan deadline, segeralah ambil secangkir kopi. Kamu bisa juga mendapatkan stamina dari minuman atau makanan lain. Coba diskusikan minuman atau makanan apa yang cocok untuk meningkatkan stamina bekerja pada dokter di Halodoc. Berdiskusi pada dokter sangat dipermudah melalui aplikasi Halodoc yang dapat kamu download di Google Play atau App Store. Kamu bisa bertanya kapan saja dan di mana saja hanya dengan Chat dan Voice Call/ Video Call.
+    </string>
+    <string name="invoice_address">
+        Terry M Smith\n(904) 246-1297\n207 Cherry St, Neptune Beach, FL, 32266
+    </string>
+
+    <string name="tes">
+        1. Melakukan konsultasi kepada pasien
+        \n2. Meresepkan obat sesuai dengan SOP yang berlaku
+        \n3. Memonitor dan melaporkan problem dan kemajuan program pasien
+        \n4. Melakukan tindakan treatment/terapi sesuai dengan kebutuhan pasien dan klinik
+        \n\n
+    </string>
+
+    <string name="tes2">
+        1. Pendidikan profesi kedokteran
+        \n2. Terbuka untuk fresh graduated
+        \n3. Memiliki STR Kedokteran yang valid dan aktif
+        \n4. Memiliki surat rekomendasi dari IDI (Ikatan Dokter Indonesia)
+        \n5. Memiliki kemampuan komunikasi dan interpersonal yang baik
+        \n6. Mampu bekerja sama dalam tim maupun individu
+        \n\n
+    </string>
+
+
+    <string name="surat">
+        Surat lamaran dan CV dapat dikirimkan :
+        \nKlinik lightHOUSE
+        \nJl. Wolter Monginsidi No.75, Kebayoran Baru
+        \nJakarta Selatan -12170
+    </string>
+
+    <string name="OK">OK</string>
+    <string name="GOT_IT">GOT IT</string>
+    <string name="YES">YES</string>
+    <string name="NO">NO</string>
+    <string name="SETTING">SETTING</string>
+    <string name="CANCEL">CANCEL</string>
+    <string name="CLOSE">CLOSE</string>
+    <string name="UPDATE">UPDATE</string>
+    <string name="DISMISS">DISMISS</string>
+    <string name="HIDE">HIDE</string>
+    <string name="RETRY">RETRY</string>
+    <string name="TRY_AGAIN">TRY AGAIN</string>
+    <string name="DETAILS">DETAILS</string>
+    <string name="FAILED">FAILED</string>
+    <string name="TYPE_SEARCH">SEARCH</string>
+    <string name="NO_IMAGE">NO IMAGE</string>
+    <string name="DELETE">DELETE</string>
+    <string name="DISCARD">DISCARD</string>
+    <string name="AGREE">AGREE</string>
+    <string name="DISAGREE">DISAGREE</string>
+    <string name="OPEN">OPEN</string>
+    <string name="SAVE">SAVE</string>
+    <string name="NEXT">NEXT</string>
+    <string name="BACK">BACK</string>
+    <string name="SKIP">SKIP</string>
+
+</resources>
